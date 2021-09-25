@@ -15,7 +15,7 @@
 
 ![](https://img.misaka.sbs/imgs/20210919162607.png)
 
-5. 输入密码 `vhqyeo50893`
+5. 输入密码 `aa123456`
 
 ![](https://img.misaka.sbs/imgs/20210919162645.png)
 
